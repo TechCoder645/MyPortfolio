@@ -126,8 +126,7 @@ const Skill = () => {
                   <ul>
                     <li>
                       <span>
-                        <b>Frameworks & Libraries:</b> &nbsp; React JS, React
-                        Native, Vue.js, Nuxt
+                        <b>Frameworks & Libraries:</b> &nbsp; React JS, Next.js
                       </span>
                     </li>
                     <li>
@@ -139,9 +138,7 @@ const Skill = () => {
                     <li>
                       <span>jQuery</span>
                     </li>
-                    <li>
-                      <span>Typescript</span>
-                    </li>
+                   
                   </ul>
                 </div>
                 <div className="skill__details">
