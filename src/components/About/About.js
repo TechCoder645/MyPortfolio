@@ -93,11 +93,9 @@ const About = () => {
                   E<span>xperience</span>
                 </h2>
                 <p>
-                  <span>6 month of experience.</span>
-                  <br />I have more than 1.5 years of experience in developing
-                  highly responsive frontend of websites using React.js and
-                  Vue.js
-                </p>
+                  <span>6 months of hands-on experience.</span>
+                  <br />As a fresher, I have gained foundational knowledge and hands-on experience in developing responsive front-end websites using React.js, focusing on building user-friendly and efficient web applications.
+                  </p>
               </Link>
             </div>
             <div
@@ -137,18 +135,17 @@ const About = () => {
               data-aos-delay="700"
               data-aos-once="true"
             >
-              <Link to="/about/graduation">
+              <Link to="/about/post-graduation">
                 <h1>
                   0<span>4</span>
                 </h1>
                 <h2>
-                  E<span>ngineering</span>
+                E<span>ducation</span>
                 </h2>
                 <p>
-                  <span>College Name </span>
+                  <span>Chandigarh University </span>
                   <br />
-                  Description.... Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam vitae aliquid dolorum qui reiciendis mollitia, itaque dolores eaque ullam quo soluta libero! Natus.
-                </p>
+                  "During my MCA, I gained expertise in software development, web technologies, and database management, with hands-on experience in modern frameworks and technologies." </p>
               </Link>
             </div>
           </div>

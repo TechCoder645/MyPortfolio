@@ -11,11 +11,20 @@ const Intro = () => {
                         <h1 data-aos='fade-down' data-aos-offset="0">H<span>ello</span>.</h1>
                     </div>
                     <div className="about-intro__description">
-                        <p data-aos='fade-right' >I am <span>Your Name Here....</span></p>
-                        <p data-aos='fade-right' data-aos-delay='200'>I enjoy building websites and always enthusiastic about creating new front-end features.</p>
-                        <p data-aos='fade-right' data-aos-delay='400'>Passionate front-end Developer with more than 1.5 years of experience in developing highly adaptive and responsive websites using React and Vue.</p>
-                        <p data-aos='fade-right' data-aos-delay='600'>I also have basic understanding of server side development using Node.js, Express.js and MongoDB</p>
-                        <p data-aos='fade-right' data-aos-delay='800'>Add few more lines if required...</p>
+                        <p data-aos='fade-right' >I am <span>Shashi Bhushan</span></p>
+                        <p data-aos='fade-right' data-aos-delay='200'>
+  As a fresher, I enjoy building websites and am always enthusiastic about creating innovative front-end features that enhance user experience.
+</p>
+<p data-aos='fade-right' data-aos-delay='400'>
+  Passionate front-end developer with foundational knowledge and hands-on experience in developing adaptive and responsive websites using React.js .
+</p>
+
+<p data-aos='fade-right' data-aos-delay='600'>
+  I also have a foundational understanding of server-side development with Node.js, Express.js, and MongoDB, and am eager to expand my knowledge in backend technologies.
+</p>
+<p data-aos='fade-right' data-aos-delay='800'>
+  Constantly exploring new tools and technologies to improve my skills and stay updated with industry trends.
+</p>
 
                         <div className="about-intro__emoji">:&nbsp;)</div>
                     </div>
